@@ -1,5 +1,5 @@
 # console.log('ING DEVOPS 👋')
-Software engineer at Microsoft and creator of Vida MRR, a personal project dedicated to help other developers to increase their technical skills in web design, web development, problems solving, and more. My main programming languages/platforms are: Javascript, Typescript, Node.js, Azure, PHP and Kotlin.
+Ingeniero de Devops y Gestión de Servicios de TI enfocado en el manejo y control de las nuevas tecnologias de información. Mis principales lenguajes / plataformas de programación son: Docker, Kubernetes, Java, Javascript, TypeScript, Node.js, Azure, PHP y Android.
 
 You can follow me in the next sites/platforms where I constantly publish new content 😊
 
