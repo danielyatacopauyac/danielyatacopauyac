@@ -1,4 +1,4 @@
 # console.log('DEVOPS 👋')
-Ingeniero de Sistemas nfocado en el manejo y control de las nuevas tecnologias de información. Mis principales lenguajes / plataformas de programación son: Docker, Kubernetes, Java, Javascript, TypeScript, Node.js, Azure, PHP y Android.
+Ingeniero de Sistemas enfocado en el manejo y control de las nuevas tecnologias de información. Mis principales lenguajes / plataformas de programación son: Docker, Kubernetes, Java, Javascript, TypeScript, Node.js, Azure, PHP y Android.
 
 
